@@ -4,7 +4,7 @@ Between **May 26 and May 29, 2025 (Beijing Time)**, we surveyed all CVE IDs of *
 
 ![image-20250809120518088](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809120518088.png)
 
-From the full CVE set, we randomly sampled **125** CVE IDs for each vendor (**500** in total, with **60%** from 2023 and earlier, and **40%** from 2024~2025). We manually verified whether the CVE **Descriptions** and their **Reference** reports contained the two key pieces of information required for IoTBec's Vulnerability Signature construction:
+From the full CVE set, we randomly sampled **125** CVE IDs for each vendor (**500** in total, with **60%** from 2023 and earlier, and **40%** from 2024~2025). We manually verified whether the CVE **Descriptions** and their **Reference** reports contained the two key information required for IoTBec's Vulnerability Signature construction:
 
 - **Affected `POST Interface`**
 - **`Critical parameter`**
@@ -24,7 +24,7 @@ The survey results are summarized below.
 
 2023 or  earlier: 185/300≈62%; 2024~2025: 167/200≈**84%**
 
-Notably, as shown in [Fig1](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809120518088.png), since 2024, the proportion of IoT-related CVEs issued by CNA VULDB has surged dramatically. Among the **88** CVE IDs issued by **VULDB** (out of the total 500), **82** contained both key pieces of information, representing approximately **93.2%** coverage.
+Notably, as shown in [Fig1](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809120518088.png), since 2024, the proportion of IoT-related CVEs issued by CNA VULDB has surged dramatically. Among the **88** CVE IDs issued by **VULDB** (out of the total 500), **82** contained both key information, representing approximately **93.2%** coverage.
 
 |  Vendor  |      Year       | Interface&parameter by in Reference VULDB | Interface&parameter in  Description by VULDB | Interface&parameter in  Reference or Description by VULDB |
 | :------: | :-------------: | :---------------------------------------: | :------------------------------------------: | :-------------------------------------------------------: |
