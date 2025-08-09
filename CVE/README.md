@@ -1,6 +1,6 @@
 # CVE Survey Overview
 
-Between **May 26 and May 29, 2025 (Beijing Time)**, we surveyed all CVE IDs of **Tenda**, **TOTOLINK**, **D-Link**, and **TP-Link**, along with their corresponding CNA organizations. The statistical distribution is shown in [fig1](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809120518088.png).
+Between **May 26 and May 29, 2025 (Beijing Time)**, we surveyed all CVE IDs of **Tenda**, **TOTOLINK**, **D-Link**, and **TP-Link**, along with their corresponding CNA organizations. The statistical distribution is shown in [Fig1](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809120518088.png).
 
 ![image-20250809120518088](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809120518088.png)
 
@@ -24,7 +24,7 @@ The survey results are summarized below.
 
 2023 or  earlier: 185/300≈62%; 2024~2025: 167/200≈**84%**
 
-Notably, among the **88** CVE IDs issued by **VULDB** (out of the total 500), **82** contained both key pieces of information, representing approximately **93.2%** coverage.
+Notably, as shown in [Fig1](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809120518088.png), since 2024, the proportion of IoT-related CVEs issued by CNA VULDB has surged dramatically. Among the **88** CVE IDs issued by **VULDB** (out of the total 500), **82** contained both key pieces of information, representing approximately **93.2%** coverage.
 
 |  Vendor  |      Year       | Interface&parameter by in Reference VULDB | Interface&parameter in  Description by VULDB | Interface&parameter in  Reference or Description by VULDB |
 | :------: | :-------------: | :---------------------------------------: | :------------------------------------------: | :-------------------------------------------------------: |
