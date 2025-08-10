@@ -26,15 +26,15 @@ The survey results are summarized below.
 
 Notably, as shown in [Fig1](https://raw.githubusercontent.com/abcdefg-png/images2/main/image-20250809120518088.png), since 2024, the proportion of IoT-related CVEs issued by CNA VULDB has surged dramatically. Among the **88** CVE IDs issued by **VULDB** (out of the total 500), **82** contained both key information, representing approximately **93.2%** coverage.
 
-|  Vendor  |      Year       | Interface&parameter by in Reference VULDB | Interface&parameter in  Description by VULDB | Interface&parameter in  Reference or Description by VULDB |
-| :------: | :-------------: | :---------------------------------------: | :------------------------------------------: | :-------------------------------------------------------: |
-|  Tenda   | 2023 or earlier |                    0/1                    |                     0/1                      |                          0/1=0%                           |
-|          |    2024~2025    |                   17/20                   |                    18/20                     |                        20/20=100%                         |
-| TOTOLINK | 2023 or earlier |                    1/3                    |                     2/3                      |                          2/3=66%                          |
-|          |    2024~2025    |                   14/27                   |                    26/27                     |                         26/27=96%                         |
-|  D-Link  | 2023 or earlier |                    1/1                    |                     1/1                      |                         1/1=100%                          |
-|          |    2024~2025    |                   25/30                   |                    25/30                     |                         27/30=90%                         |
-| TP-Link  | 2023 or earlier |                    1/1                    |                     0/0                      |                         1/1=100%                          |
-|          |    2024~2025    |                    5/5                    |                     3/5                      |                         5/5=100%                          |
+|  Vendor  |      Year       | Interface&parameter by in Reference by VULDB | Interface&parameter in  Description by VULDB | Interface&parameter in  Reference or Description by VULDB |
+| :------: | :-------------: | :------------------------------------------: | :------------------------------------------: | :-------------------------------------------------------: |
+|  Tenda   | 2023 or earlier |                     0/1                      |                     0/1                      |                          0/1=0%                           |
+|          |    2024~2025    |                    17/20                     |                    18/20                     |                        20/20=100%                         |
+| TOTOLINK | 2023 or earlier |                     1/3                      |                     2/3                      |                          2/3=66%                          |
+|          |    2024~2025    |                    14/27                     |                    26/27                     |                         26/27=96%                         |
+|  D-Link  | 2023 or earlier |                     1/1                      |                     1/1                      |                         1/1=100%                          |
+|          |    2024~2025    |                    25/30                     |                    25/30                     |                         27/30=90%                         |
+| TP-Link  | 2023 or earlier |                     1/1                      |                     0/0                      |                         1/1=100%                          |
+|          |    2024~2025    |                     5/5                      |                     3/5                      |                         5/5=100%                          |
 
 2023 or  earlier: 4/6≈66%; 2024~2025: 78/82≈**95%**
